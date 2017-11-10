@@ -1,4 +1,12 @@
 # Dracula for [Terminal.app](https://en.wikipedia.org/wiki/Terminal_(macOS))
+* Slighly modified with some colors from base16 Ocean theme
+* you can reuse or merge my bash_profile file with yours 
+* For the Git bash prompt , you can use https://github.com/magicmonty/bash-git-prompt , my favourite option is as following 
+
+```shell
+cd ~
+git clone https://github.com/magicmonty/bash-git-prompt.git .bash-git-prompt --depth=1
+```
 
 > A dark theme for [Terminal.app](https://en.wikipedia.org/wiki/Terminal_(macOS)).
 
