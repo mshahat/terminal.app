@@ -33,9 +33,4 @@ GIT_PROMPT_ONLY_IN_REPO=1
 GIT_PROMPT_THEME=Single_line_Minimalist
 source ~/.bash-git-prompt/gitprompt.sh
 
-# for lab2 
-#export AWS_REGION=eu-west-2
-#export AWS_ACCESS_KEY_ID=AKIAIKLGB3F6HRYDBW4Q
-#export AWS_SECRET_ACCESS_KEY=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
-#export NAME=emeauser110.k8s.local
-#export KOPS_STATE_STORE=s3://emeauser110-kops-state-store
+
